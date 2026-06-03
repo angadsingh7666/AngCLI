@@ -1,3 +1,4 @@
+README.md
 pyproject.toml
 src/agent_cli/agent.py
 src/agent_cli/inference.py
