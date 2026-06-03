@@ -1,0 +1,1 @@
+codeagent interactive --model "/home/angad/ANGCLI/models/Qwen3-Coder-3B"

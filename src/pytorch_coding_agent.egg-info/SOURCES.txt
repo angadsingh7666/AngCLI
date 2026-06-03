@@ -1,0 +1,11 @@
+pyproject.toml
+src/agent_cli/agent.py
+src/agent_cli/inference.py
+src/agent_cli/main.py
+src/agent_cli/tools.py
+src/pytorch_coding_agent.egg-info/PKG-INFO
+src/pytorch_coding_agent.egg-info/SOURCES.txt
+src/pytorch_coding_agent.egg-info/dependency_links.txt
+src/pytorch_coding_agent.egg-info/entry_points.txt
+src/pytorch_coding_agent.egg-info/requires.txt
+src/pytorch_coding_agent.egg-info/top_level.txt
